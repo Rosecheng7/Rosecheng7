@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Rosecheng7/Rosecheng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Rose Cheng, a Statistics & Data Science major at UCLA with a minor in Anthropology. I am driven to use data to create insights across technology, product, and business. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
