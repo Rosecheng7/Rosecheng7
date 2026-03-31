@@ -17,7 +17,7 @@ I'm Rose Cheng — a Statistics & Data Science student at UCLA with a passion to
 `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`  
 
 **Core Skills**  
-Data Wrangling · EDA · Feature Engineering · Statistical Modeling · Machine Learning · Data Visualization  
+`Data Wrangling` · `EDA` · `Feature Engineering` · `Statistical Modeling` · `Machine Learning` · `Data Visualization`  
 
 
 ## 🌱 Currently Exploring
